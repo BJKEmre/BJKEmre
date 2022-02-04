@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Ductical 👋
 
-<!--
-**BJKEmre/BJKEmre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 Trustworthy Projects
+99% of my projects are private and only managed by trusted people. You can get the source code on request, even if you are not a coder.
 
-Here are some ideas to get you started:
+### 📕 Latest Projects
+● Select *** (Mobile Game => name will be announced when the game is released)<br>
+● We *** (Mobile Game => name will be announced when the game is released)<br>
+● NewEditor (Editor with advanced functions)<br>
+● Explotastic (File-Explorer with a clever search engine)<br>
+● Website (Exclusive design for a customer) <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+You can contact me on [Instagram](https://www.instagram.com/ductical/).
