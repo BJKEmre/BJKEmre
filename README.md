@@ -9,3 +9,6 @@ At least 99% of my projects are private and only managed by trusted people. You 
 ● NewEditor (Editor with advanced functions)<br>
 ● Explotastic (File-Explorer with a clever search engine)<br>
 ● Website (Exclusive design for a customer) <br>
+
+### 📫 Contact
+You can contact me by [e-mail](mailto:emre009@hotmail.de).
