@@ -1,7 +1,7 @@
 ### Hi, I'm Ductical 👋
 
 ### 💬 Trustworthy Projects
-99% of my projects are private and only managed by trusted people. You can get the source code on request, even if you are not a coder.
+At least 99% of my projects are private and only managed by trusted people. You can get the source code on request, even if you are not a coder.
 
 ### 📕 Latest Projects
 ● Select *** (Mobile Game => name will be announced when the game is released)<br>
