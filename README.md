@@ -9,6 +9,3 @@ At least 99% of my projects are private and only managed by trusted people. You 
 ● NewEditor (Editor with advanced functions)<br>
 ● Explotastic (File-Explorer with a clever search engine)<br>
 ● Website (Exclusive design for a customer) <br>
-
-### 📫 Contact
-You can contact me on [Instagram](https://www.instagram.com/ductical/).
